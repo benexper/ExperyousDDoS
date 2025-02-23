@@ -1,4 +1,3 @@
-KURULUM:
 git clone https://github.com/benexper/ExperyousDDoS/
 cd ExperyousDDoS
 pip2 install -r installing.txt
