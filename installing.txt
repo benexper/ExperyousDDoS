@@ -1,0 +1,6 @@
+rich
+requests
+pyfiglet
+webbrowser
+user_agent
+random
